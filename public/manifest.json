@@ -1,0 +1,19 @@
+{
+  "id": "/",
+  "name": "Exam Seat Planner - পরীক্ষা সিট প্ল্যানার",
+  "short_name": "সিট প্ল্যানার",
+  "description": "এক্সেল ফাইল আপলোড করে পরীক্ষার জন্য স্বয়ংক্রিয় সিট প্ল্যান, রুম নোটিশ, বেঞ্চ স্লিপ ও স্বাক্ষর তালিকা তৈরি এবং সহজে প্রিন্ট করার সমাধান।",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "theme_color": "#4f46e5",
+  "background_color": "#f8fafc",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
